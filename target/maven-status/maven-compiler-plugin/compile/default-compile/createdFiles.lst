@@ -1,7 +1,7 @@
-com/merveturk/rentACar/dataAccess/abstracts/BrandRepository.class
+com/merveturk/rentACar/controller/BrandsController.class
 com/merveturk/rentACar/business/abstracts/BrandService.class
+com/merveturk/rentACar/repository/concretes/InMemoryBrandRepository.class
 com/merveturk/rentACar/RentACarApplication.class
-com/merveturk/rentACar/dataAccess/concretes/InMemoryBrandRepository.class
-com/merveturk/rentACar/webApi/controller/BrandsController.class
+com/merveturk/rentACar/repository/abstracts/BrandRepository.class
 com/merveturk/rentACar/business/concretes/BrandManager.class
 com/merveturk/rentACar/entities/concretes/Brand.class

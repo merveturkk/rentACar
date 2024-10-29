@@ -1,7 +1,7 @@
-/Users/merveturk/Desktop/rentACar/src/main/java/com/merveturk/rentACar/RentACarApplication.java
-/Users/merveturk/Desktop/rentACar/src/main/java/com/merveturk/rentACar/business/abstracts/BrandService.java
-/Users/merveturk/Desktop/rentACar/src/main/java/com/merveturk/rentACar/business/concretes/BrandManager.java
-/Users/merveturk/Desktop/rentACar/src/main/java/com/merveturk/rentACar/dataAccess/abstracts/BrandRepository.java
-/Users/merveturk/Desktop/rentACar/src/main/java/com/merveturk/rentACar/dataAccess/concretes/InMemoryBrandRepository.java
-/Users/merveturk/Desktop/rentACar/src/main/java/com/merveturk/rentACar/entities/concretes/Brand.java
-/Users/merveturk/Desktop/rentACar/src/main/java/com/merveturk/rentACar/webApi/controller/BrandsController.java
+/Users/merveturk/Desktop/rentACarr/src/main/java/com/merveturk/rentACar/RentACarApplication.java
+/Users/merveturk/Desktop/rentACarr/src/main/java/com/merveturk/rentACar/business/abstracts/BrandService.java
+/Users/merveturk/Desktop/rentACarr/src/main/java/com/merveturk/rentACar/business/concretes/BrandManager.java
+/Users/merveturk/Desktop/rentACarr/src/main/java/com/merveturk/rentACar/controller/BrandsController.java
+/Users/merveturk/Desktop/rentACarr/src/main/java/com/merveturk/rentACar/entities/concretes/Brand.java
+/Users/merveturk/Desktop/rentACarr/src/main/java/com/merveturk/rentACar/repository/abstracts/BrandRepository.java
+/Users/merveturk/Desktop/rentACarr/src/main/java/com/merveturk/rentACar/repository/concretes/InMemoryBrandRepository.java
